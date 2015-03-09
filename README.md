@@ -28,7 +28,7 @@ You run the program similar to espresso:
 cappuccino file.in file.out
 ```
 Where file.in is your input file and file.out is your output file. 
-This will create two files. The first file will have the same name as your input file with Espresso appended to the front. The second will be your output file. For example, if you input cappuccino ayylmao.txt nicememe.txt then the script will create an Espressoayylmao.txt alongside of your output file. 
+This will create two files. The first file will have the same name as your input file with Espresso appended to the front. The second will be your output file. For example, if you input ```cappuccino ayylmao.txt nicememe.txt``` then the script will create an Espressoayylmao.txt alongside of your output file. 
 
 #FAQ
 
